@@ -1,1 +1,0 @@
-# These is a First React + jsx + TailwindCSS + DaisyUI Project
